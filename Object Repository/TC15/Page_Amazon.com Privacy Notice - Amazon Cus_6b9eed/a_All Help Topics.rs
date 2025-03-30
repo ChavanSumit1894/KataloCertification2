@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_All Help Topics</name>
+   <tag></tag>
+   <elementGuidId>d4ff75ae-2150-4c8b-a1b0-1bf5fcd5b96f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span > a.a-link-normal</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='a-page']/div/div[2]/div[2]/div/div/span/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;All Help Topics&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e8cae4fa-0cc2-4e33-b322-365b8d5006a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-link-normal</value>
+      <webElementGuid>35dc92b2-75d2-4546-8d86-e45b5428907b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/gp/help/customer/display.html</value>
+      <webElementGuid>43c1c965-b69b-43b7-a156-382369d1e9f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>All Help Topics</value>
+      <webElementGuid>f1137609-0e0e-4adf-a7af-9f61c5e9ecf9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;a-page&quot;)/div[@class=&quot;cs-help-v4&quot;]/div[@class=&quot;cs-help-container&quot;]/div[@class=&quot;cs-help-sidebar&quot;]/div[@class=&quot;cs-help-sidebar-module topic-sidebar&quot;]/div[@class=&quot;inner&quot;]/span[1]/a[@class=&quot;a-link-normal&quot;]</value>
+      <webElementGuid>43857067-deeb-41c9-a64a-ee251a2ff373</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='a-page']/div/div[2]/div[2]/div/div/span/a</value>
+      <webElementGuid>dba9b8b7-e032-435a-8049-a8ce9805d3f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'All Help Topics')]</value>
+      <webElementGuid>7c7da3fe-a1d3-48c7-b589-7c66dc51f25c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Legal Policies'])[2]/preceding::a[1]</value>
+      <webElementGuid>1079ff0f-9807-43e4-b404-187127052d73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Consumer Health Data Privacy Disclosure'])[2]/preceding::a[1]</value>
+      <webElementGuid>9ff57b01-69b4-4859-97d9-839edafc50ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='All Help Topics']/parent::*</value>
+      <webElementGuid>5d8b44f2-33ee-4049-b8ca-9f8e7f643802</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/gp/help/customer/display.html')])[20]</value>
+      <webElementGuid>728b087a-106a-421a-aa27-0a4eca35da6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/span/a</value>
+      <webElementGuid>1f742dcb-1804-4af6-abb4-1e68f088283f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/gp/help/customer/display.html' and (text() = 'All Help Topics' or . = 'All Help Topics')]</value>
+      <webElementGuid>1fd7ccec-f621-4629-8555-b00ca5bda6c5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

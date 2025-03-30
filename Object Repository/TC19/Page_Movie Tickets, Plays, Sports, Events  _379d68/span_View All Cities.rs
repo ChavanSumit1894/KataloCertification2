@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_View All Cities</name>
+   <tag></tag>
+   <elementGuidId>84b67402-38e1-434c-ba93-d297b730dd26</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.bwc__sc-ttnkwg-5.jhbnqL</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modal-root']/div/div/div/div[4]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;View All Cities&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ffa3fd84-f731-46bc-878e-24d10e6dc6b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>cursor</name>
+      <type>Main</type>
+      <value>pointer</value>
+      <webElementGuid>3ca757aa-6b1a-4130-a444-40e091e9edcb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>color</name>
+      <type>Main</type>
+      <value>#DC3558</value>
+      <webElementGuid>b7f99354-905b-474a-b6bc-022f5c360c1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bwc__sc-ttnkwg-5 jhbnqL</value>
+      <webElementGuid>5f12dbc5-8134-4f67-a5df-5a76575854ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>View All Cities</value>
+      <webElementGuid>dd59a6e5-ba19-46a7-b5d6-6bad7bdcc94d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal-root&quot;)/div[@class=&quot;bwc__sc-1ihur1g-4 jxHGrI in-animation&quot;]/div[@class=&quot;bwc__sc-1ihur1g-5 gznHHe in-animation&quot;]/div[@class=&quot;bwc__sc-m1rlyj-3 bwc__sc-ttnkwg-27 kwGtup&quot;]/div[@class=&quot;bwc__sc-ttnkwg-4 Ettpg&quot;]/span[@class=&quot;bwc__sc-ttnkwg-5 jhbnqL&quot;]</value>
+      <webElementGuid>8c21379f-e185-496b-a3d6-a94dc22cee0c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal-root']/div/div/div/div[4]/span</value>
+      <webElementGuid>63263b71-9fc4-4749-9ad4-3601fc3d1f04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kochi'])[1]/following::span[1]</value>
+      <webElementGuid>fa1b04e0-8f49-4756-9f8f-0d18c7f36610</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kolkata'])[1]/following::span[2]</value>
+      <webElementGuid>6475cc5e-3ab1-4bbe-a054-0bf8e58fd053</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='View All Cities']/parent::*</value>
+      <webElementGuid>436035f7-f608-47ec-9cd1-2eb03ace8299</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/span</value>
+      <webElementGuid>343e7e61-51ab-479f-b8ba-94ea8952affb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'View All Cities' or . = 'View All Cities')]</value>
+      <webElementGuid>7dbe7a04-ba52-4d3e-82e3-787c7048c7b6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

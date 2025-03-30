@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Help  Customer Service</name>
+   <tag></tag>
+   <elementGuidId>820c1911-19ac-41f0-a415-38ee216af5c0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.cs-help-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='a-page']/div/div/div/div/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Help &amp; Customer Service&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b91adfc7-957e-4a76-874c-79032020fa7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cs-help-title</value>
+      <webElementGuid>6c61768e-bbce-4545-88ce-01fa9b91dcfb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.amazon.com/gp/help/customer/display.html?ref_=hp_bc_anchor&amp;nodeId=G508510</value>
+      <webElementGuid>a4aecd47-df44-4a4d-adbd-228e8aee8462</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Help &amp; Customer Service </value>
+      <webElementGuid>a6297106-2519-4e19-9f79-a67baf04615c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;a-page&quot;)/div[@class=&quot;cs-help-v4&quot;]/div[@class=&quot;cs-help-header&quot;]/div[@class=&quot;inner&quot;]/div[@class=&quot;a-row a-spacing-top-small&quot;]/div[@class=&quot;a-column a-span9&quot;]/a[@class=&quot;cs-help-title&quot;]</value>
+      <webElementGuid>52275991-fd7e-443d-8eba-675f8c77f0bd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='a-page']/div/div/div/div/div/a</value>
+      <webElementGuid>f0fb5678-7df3-4226-bd78-4fbe71743cd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Help &amp; Customer Service')]</value>
+      <webElementGuid>7cac37b6-1270-4c97-b184-76585dde545a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Disability Customer Support'])[1]/following::a[2]</value>
+      <webElementGuid>4c799e81-aa48-47bc-ba53-e8fb79b2c677</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sell'])[1]/following::a[3]</value>
+      <webElementGuid>185018ed-d9a6-4e73-8f83-a4fd2107961b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Find more solutions'])[1]/preceding::a[1]</value>
+      <webElementGuid>cd954c82-e2e7-4e1b-af65-6b1608eab6fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Security and Privacy'])[1]/preceding::a[1]</value>
+      <webElementGuid>9aad0ddd-4184-41e7-b942-159442cf0003</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Help &amp; Customer Service']/parent::*</value>
+      <webElementGuid>a1c83d95-aac7-4dea-8677-b02355b8c134</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.amazon.com/gp/help/customer/display.html?ref_=hp_bc_anchor&amp;nodeId=G508510')]</value>
+      <webElementGuid>27d1db11-08c0-4126-9b70-c2d472ef141c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div/a</value>
+      <webElementGuid>88368693-727c-40c3-95f0-0ec1cbefc9d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.amazon.com/gp/help/customer/display.html?ref_=hp_bc_anchor&amp;nodeId=G508510' and (text() = ' Help &amp; Customer Service ' or . = ' Help &amp; Customer Service ')]</value>
+      <webElementGuid>5e088f7b-4a39-4419-a3b9-20291e3bfb2b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

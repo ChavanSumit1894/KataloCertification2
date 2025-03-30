@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Delhi-NCR</name>
+   <tag></tag>
+   <elementGuidId>38cd4694-0d36-458a-9441-7f242aa66e47</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.bwc__sc-ttnkwg-19.gbromM > span.bwc__sc-ttnkwg-16.dizuyr</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modal-root']/div/div/div/div[3]/ul/li[2]/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Delhi-NCR&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>baa72644-642a-4b29-8d98-e0a9e441a3c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bwc__sc-ttnkwg-16 dizuyr</value>
+      <webElementGuid>259126b9-47c4-4bde-a471-501441a84268</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Delhi-NCR</value>
+      <webElementGuid>e5311e7b-07b5-4772-a1d2-7e33f1e74954</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal-root&quot;)/div[@class=&quot;bwc__sc-1ihur1g-4 jxHGrI in-animation&quot;]/div[@class=&quot;bwc__sc-1ihur1g-5 gznHHe in-animation&quot;]/div[@class=&quot;bwc__sc-m1rlyj-3 bwc__sc-ttnkwg-27 kwGtup&quot;]/div[@class=&quot;bwc__sc-ttnkwg-4 Ettpg&quot;]/ul[@class=&quot;bwc__sc-ttnkwg-15 gZrltM&quot;]/li[@class=&quot;bwc__sc-ttnkwg-18 KUowN&quot;]/div[@class=&quot;bwc__sc-ttnkwg-19 gbromM&quot;]/span[@class=&quot;bwc__sc-ttnkwg-16 dizuyr&quot;]</value>
+      <webElementGuid>0ab38379-e9c1-4356-b377-1ea771810a37</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal-root']/div/div/div/div[3]/ul/li[2]/div/span</value>
+      <webElementGuid>58f74421-2716-488a-b4c2-eee948ebd7c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mumbai'])[1]/following::span[1]</value>
+      <webElementGuid>e0ff11f0-7b82-45d4-820f-4f5b7371a31e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Popular Cities'])[1]/following::span[2]</value>
+      <webElementGuid>3f147746-2962-438e-8f8f-282fa47ef577</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delhi'])[1]/preceding::span[1]</value>
+      <webElementGuid>4898176c-71b4-45be-ba0b-b5f68193ad52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gurugram (Gurgaon)'])[1]/preceding::span[2]</value>
+      <webElementGuid>ec5ed665-f320-40c9-94d6-ea85bbe33e89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Delhi-NCR']/parent::*</value>
+      <webElementGuid>181afc83-ccfe-4947-adc9-33e293da2086</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div/span</value>
+      <webElementGuid>c85b58e8-950a-456e-8a09-4dba91ea35d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Delhi-NCR' or . = 'Delhi-NCR')]</value>
+      <webElementGuid>52f4133e-0695-43f5-8a34-788ac57d2b45</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

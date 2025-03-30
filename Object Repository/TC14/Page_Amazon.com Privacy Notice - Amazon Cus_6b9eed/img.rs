@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>db64c53d-1d07-4c07-909c-d9cf78f1df06</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;Your Orders&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='a-page']/div/div[2]/div[2]/div[2]/div/div/div/div/a/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Your Orders&quot;i] >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>92a4c421-fdf1-4154-9e8a-57789d92ffff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Your Orders</value>
+      <webElementGuid>8d264732-024b-4ff4-93d0-0ca1821ab97f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://m.media-amazon.com/images/G/01/x-locale/cs/help/images/gateway/Box_smaller.png</value>
+      <webElementGuid>dec4f3a7-b349-441c-a2d9-427aecc7a184</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Your Orders</value>
+      <webElementGuid>292be8dd-8f90-497f-97af-767331d71629</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;a-page&quot;)/div[@class=&quot;cs-help-v4&quot;]/div[@class=&quot;cs-help-container&quot;]/div[@class=&quot;cs-help-sidebar&quot;]/div[@class=&quot;a-section cs-help-sidebar-module take-action-sidebar&quot;]/div[@class=&quot;a-section inner&quot;]/div[@class=&quot;a-section&quot;]/div[@class=&quot;a-row a-spacing-micro a-grid-vertical-align a-grid-center&quot;]/div[@class=&quot;a-column a-span4&quot;]/a[@class=&quot;a-link-normal quick-solution-action&quot;]/img[1]</value>
+      <webElementGuid>c75e85e3-a743-4f7d-9c6a-1b51c5027e8b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='a-page']/div/div[2]/div[2]/div[2]/div/div/div/div/a/img</value>
+      <webElementGuid>6e2f6a05-78a3-4899-b442-5765c8c4d6c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Your Orders']</value>
+      <webElementGuid>71bb80f8-227e-473b-b0b0-69418d827b46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/img</value>
+      <webElementGuid>2205449b-b5a5-4b78-800a-d40d3649108f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'Your Orders' and @src = 'https://m.media-amazon.com/images/G/01/x-locale/cs/help/images/gateway/Box_smaller.png' and @title = 'Your Orders']</value>
+      <webElementGuid>6120ba29-b680-4a68-8a5c-40763cbc1416</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
